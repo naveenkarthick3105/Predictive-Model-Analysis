@@ -1,0 +1,431 @@
+date,location,area,minimum_total_people_killed,maximum_total_people_killed,minimum_civilians_reported_killed,maximum_civilians_reported_killed,minimum_children_reported_killed,maximum_children_reported_killed,minimum_reported_injured,maximum_reported_injured
+2004-06-17,Wana,South Waziristan,6.0,8.0,2.0,2.0,2.0,2.0,1.0,1.0
+2005-05-08,Toorikhel,North Waziristan,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+2005-11-05,Mosaki,North Waziristan,8.0,8.0,3.0,8.0,2.0,3.0,1.0,1.0
+2005-12-01,Haisori,North Waziristan,6.0,6.0,2.0,3.0,2.0,2.0,0.0,0.0
+2006-01-13,Damadola,Bajaur Agency,13.0,22.0,10.0,18.0,5.0,6.0,0.0,0.0
+2006-10-30,Chenegai,Bajaur Agency,81.0,83.0,80.0,82.0,68.0,70.0,3.0,3.0
+2007-01-16,Zamazola,South Waziristan,8.0,8.0,8.0,8.0,1.0,1.0,0.0,0.0
+2007-04-27,Saidgai,North Waziristan,3.0,4.0,3.0,4.0,0.0,0.0,3.0,9.0
+2007-06-19,Mami Rogha,North Waziristan,20.0,34.0,0.0,34.0,0.0,0.0,10.0,15.0
+2007-11-02,Danda Darpakhel,North Waziristan,5.0,10.0,0.0,0.0,0.0,0.0,6.0,12.0
+2007-12-03,Jani Khel,Bannu Frontier Region,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+2008-01-29,Mir Ali,North Waziristan,12.0,15.0,4.0,6.0,2.0,3.0,1.0,2.0
+2008-02-28,Azam Warsak,South Waziristan,10.0,13.0,0.0,0.0,0.0,0.0,6.0,16.0
+2008-03-16,Dhook Pir Bagh,South Waziristan,18.0,20.0,0.0,4.0,0.0,0.0,5.0,9.0
+2008-05-14,Damadola,Bajaur Agency,12.0,20.0,4.0,6.0,1.0,4.0,9.0,9.0
+2008-06-14,Makeen,South Waziristan,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+2008-07-28,Zeralita,South Waziristan,7.0,12.0,1.0,5.0,0.0,2.0,3.0,3.0
+2008-08-12,Bhaggar,South Waziristan,12.0,25.0,0.0,5.0,0.0,0.0,0.0,4.0
+2008-08-20,Zari Noor,South Waziristan,6.0,12.0,0.0,0.0,0.0,0.0,5.0,5.0
+2008-08-27,Ganki Khel,South Waziristan,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0
+2008-08-30,Korzai,South Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,4.0,4.0
+2008-08-30,Miram Shah,North Waziristan,6.0,11.0,2.0,9.0,1.0,4.0,2.0,8.0
+2008-09-02,Unknown,North Waziristan,0.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0
+2008-09-04,Mohammad Khel,North Waziristan,5.0,7.0,0.0,0.0,0.0,0.0,3.0,4.0
+2008-09-05,Gurwak,North Waziristan,5.0,12.0,5.0,7.0,3.0,4.0,0.0,0.0
+2008-09-08,Miram Shah,North Waziristan,17.0,23.0,11.0,20.0,5.0,8.0,14.0,25.0
+2008-09-12,Tol Khel,North Waziristan,12.0,15.0,3.0,5.0,2.0,2.0,14.0,14.0
+2008-09-17,Baghar Cheena,South Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,3.0,3.0
+2008-09-30,Khushali,South Waziristan,4.0,8.0,0.0,0.0,0.0,0.0,5.0,9.0
+2008-10-03,Datta Khel,North Waziristan,3.0,3.0,3.0,3.0,1.0,1.0,5.0,5.0
+2008-10-03,Datta Khel,North Waziristan,17.0,21.0,7.0,14.0,3.0,3.0,0.0,0.0
+2008-10-09,Tati,North Waziristan,5.0,9.0,1.0,9.0,1.0,4.0,2.0,2.0
+2008-10-11,Miram Shah,North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,2.0,2.0
+2008-10-16,Taparghai,South Waziristan,2.0,9.0,0.0,4.0,0.0,0.0,1.0,7.0
+2008-10-23,Danda Darpakhel,North Waziristan,8.0,11.0,7.0,10.0,7.0,7.0,6.0,11.0
+2008-10-26,Mandata,South Waziristan,18.0,20.0,0.0,4.0,0.0,3.0,2.0,2.0
+2008-10-31,Asori,North Waziristan,4.0,25.0,1.0,20.0,0.0,0.0,0.0,0.0
+2008-10-31,Kari Kot,South Waziristan,4.0,12.0,1.0,1.0,0.0,0.0,2.0,30.0
+2008-11-07,Kumsham,North Waziristan,11.0,16.0,6.0,11.0,0.0,0.0,17.0,17.0
+2008-11-14,Garyom,North Waziristan,11.0,13.0,3.0,12.0,0.0,0.0,2.0,2.0
+2008-11-19,Jani Khel,Bannu Frontier Region,3.0,6.0,0.0,3.0,0.0,0.0,7.0,7.0
+2008-11-22,Ali Khel,North Waziristan,4.0,6.0,0.0,1.0,0.0,0.0,6.0,6.0
+2008-11-27,Wana,South Waziristan,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008-11-29,Chashma,North Waziristan,2.0,3.0,0.0,3.0,0.0,0.0,2.0,3.0
+2008-12-05,Kateera,North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,2.0,2.0
+2008-12-11,Azam Warsak,South Waziristan,6.0,7.0,0.0,7.0,0.0,0.0,0.0,0.0
+2008-12-15,Tapi Tool,North Waziristan,2.0,3.0,0.0,3.0,0.0,0.0,3.0,3.0
+2008-12-22,Kari Kot,South Waziristan,3.0,3.0,0.0,0.0,0.0,0.0,5.0,5.0
+2008-12-22,Shin Warsak,South Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,4.0,4.0
+2009-01-01,Kari Kot,South Waziristan,3.0,5.0,0.0,0.0,0.0,0.0,1.0,2.0
+2009-01-02,Madin Village,South Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,3.0,5.0
+2009-01-23,Zharki,North Waziristan,7.0,15.0,9.0,11.0,1.0,1.0,1.0,1.0
+2009-01-23,Ganki Khel,South Waziristan,5.0,10.0,5.0,10.0,3.0,4.0,2.0,2.0
+2009-02-14,Narsi Khel,South Waziristan,25.0,35.0,1.0,9.0,1.0,1.0,11.0,15.0
+2009-02-16,Sur Pul,Kurram Agency,18.0,31.0,0.0,0.0,0.0,0.0,3.0,7.0
+2009-03-01,Sararogha,South Waziristan,3.0,12.0,0.0,0.0,0.0,0.0,1.0,3.0
+2009-03-12,Barjo,Kurram Agency,14.0,26.0,0.0,0.0,0.0,0.0,9.0,50.0
+2009-03-15,Jani Khel,Bannu Frontier Region,2.0,6.0,0.0,0.0,0.0,0.0,3.0,3.0
+2009-03-25,Makeen,South Waziristan,6.0,8.0,0.0,0.0,0.0,0.0,5.0,5.0
+2009-03-26,Sokhel,North Waziristan,4.0,5.0,0.0,5.0,0.0,0.0,5.0,5.0
+2009-04-01,Khadezai,Orakzai Agency,10.0,14.0,5.0,5.0,3.0,3.0,4.0,16.0
+2009-04-04,Datta Khel,North Waziristan,13.0,15.0,8.0,13.0,3.0,5.0,1.0,1.0
+2009-04-08,Ganki Khel,South Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,2.0,5.0
+2009-04-19,Ganki Khel,South Waziristan,0.0,8.0,0.0,8.0,0.0,0.0,3.0,5.0
+2009-04-29,Kaniguram,South Waziristan,1.0,10.0,0.0,4.0,0.0,0.0,4.0,4.0
+2009-05-09,Tabbi Langhar Khel,South Waziristan,6.0,25.0,0.0,4.0,0.0,0.0,7.0,10.0
+2009-05-12,Sara Khwara,South Waziristan,5.0,9.0,0.0,0.0,0.0,0.0,4.0,4.0
+2009-05-16,Khesoor,North Waziristan,25.0,40.0,9.0,9.0,0.0,0.0,2.0,2.0
+2009-06-14,Marda Algad,South Waziristan,3.0,5.0,0.0,3.0,0.0,0.0,0.0,0.0
+2009-06-18,Wana,South Waziristan,12.0,18.0,4.0,4.0,0.0,0.0,10.0,10.0
+2009-06-23,Makeen,South Waziristan,5.0,6.0,0.0,0.0,0.0,0.0,7.0,7.0
+2009-06-23,Makeen,South Waziristan,60.0,83.0,18.0,50.0,10.0,10.0,27.0,27.0
+2009-07-03,Mantoi,South Waziristan,0.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0
+2009-07-03,Zamarai Nairai,South Waziristan,10.0,17.0,0.0,0.0,0.0,0.0,27.0,35.0
+2009-07-07,Makeen,South Waziristan,14.0,18.0,0.0,0.0,0.0,0.0,10.0,10.0
+2009-07-08,Ladha,South Waziristan,8.0,10.0,0.0,0.0,0.0,0.0,5.0,12.0
+2009-07-08,Ladha,South Waziristan,35.0,40.0,0.0,0.0,0.0,0.0,1.0,1.0
+2009-07-10,Painda Khel,South Waziristan,3.0,5.0,0.0,0.0,0.0,0.0,3.0,3.0
+2009-07-17,Gariwam,North Waziristan,5.0,6.0,0.0,0.0,0.0,0.0,4.0,6.0
+2009-08-05,Ladha,South Waziristan,1.0,12.0,1.0,4.0,0.0,0.0,5.0,5.0
+2009-08-11,Ladha,South Waziristan,12.0,25.0,0.0,6.0,4.0,4.0,5.0,7.0
+2009-08-21,Danda Darpakhel,North Waziristan,17.0,21.0,9.0,13.0,6.0,6.0,2.0,2.0
+2009-08-27,Taparghai,South Waziristan,8.0,10.0,0.0,0.0,0.0,0.0,6.0,9.0
+2009-09-07,Machi Khel,North Waziristan,5.0,8.0,3.0,3.0,0.0,0.0,2.0,7.0
+2009-09-08,Darga Mandi,North Waziristan,10.0,15.0,5.0,5.0,3.0,3.0,4.0,5.0
+2009-09-14,Toorikhel,North Waziristan,5.0,5.0,0.0,0.0,0.0,0.0,2.0,3.0
+2009-09-24,Mir Ali,North Waziristan,10.0,12.0,0.0,12.0,0.0,0.0,5.0,5.0
+2009-09-29,Sararogha,South Waziristan,5.0,6.0,0.0,0.0,0.0,0.0,2.0,6.0
+2009-09-29,Danda Darpakhel,North Waziristan,4.0,9.0,0.0,4.0,0.0,0.0,2.0,6.0
+2009-09-30,Norak,North Waziristan,6.0,9.0,0.0,0.0,0.0,0.0,2.0,5.0
+2009-10-15,Danda Darpakhel,North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,7.0,7.0
+2009-10-21,Spalaga,North Waziristan,3.0,3.0,0.0,0.0,0.0,0.0,8.0,8.0
+2009-10-24,Damadola,Bajaur Agency,20.0,30.0,0.0,0.0,0.0,0.0,8.0,8.0
+2009-11-05,Norak,North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,8.0,8.0
+2009-11-18,Shanakorah,North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,2.0,15.0
+2009-11-20,Machi Khel,North Waziristan,3.0,14.0,3.0,3.0,1.0,1.0,2.0,12.0
+2009-12-08,Spalaga,North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,3.0,3.0
+2009-12-10,Ladha,South Waziristan,6.0,6.0,0.0,0.0,0.0,0.0,8.0,8.0
+2009-12-17,Datta Khel,North Waziristan,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+2009-12-17,Ambar Shaga,North Waziristan,12.0,16.0,6.0,6.0,0.0,0.0,0.0,0.0
+2009-12-18,Babrak Ziarat,North Waziristan,5.0,8.0,5.0,5.0,0.0,0.0,4.0,5.0
+2009-12-26,Saidgai,North Waziristan,13.0,20.0,6.0,6.0,0.0,0.0,12.0,12.0
+2009-12-31,Machi Khel,North Waziristan,3.0,7.0,3.0,3.0,1.0,1.0,2.0,2.0
+2010-01-01,Ghundikala,North Waziristan,2.0,3.0,0.0,0.0,0.0,0.0,3.0,4.0
+2010-01-03,Mosaki,North Waziristan,5.0,5.0,1.0,2.0,1.0,1.0,2.0,2.0
+2010-01-06,Sanzali,North Waziristan,5.0,7.0,0.0,6.0,0.0,0.0,5.0,5.0
+2010-01-06,Sanzali,North Waziristan,5.0,9.0,5.0,5.0,0.0,0.0,3.0,3.0
+2010-01-08,Tappi,North Waziristan,5.0,6.0,5.0,5.0,1.0,1.0,3.0,3.0
+2010-01-09,Ismail Khel,North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,5.0,5.0
+2010-01-09,Shaktoi,North Waziristan,15.0,18.0,0.0,0.0,0.0,0.0,7.0,14.0
+2010-01-15,Zanani,North Waziristan,5.0,10.0,0.0,0.0,0.0,0.0,3.0,3.0
+2010-01-15,Shaktoi,North Waziristan,6.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-01-17,Shaktoi,North Waziristan,14.0,20.0,0.0,0.0,0.0,0.0,4.0,4.0
+2010-01-19,Deegan,North Waziristan,5.0,9.0,0.0,0.0,0.0,0.0,4.0,4.0
+2010-01-29,Mohammad Khel,North Waziristan,2.0,15.0,0.0,0.0,0.0,0.0,4.0,4.0
+2010-02-02,Toor Narai,North Waziristan,23.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-02-02,Deegan,North Waziristan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-02-02,Mohammad Khel,North Waziristan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-02-02,Pai Khel,North Waziristan,9.0,9.0,5.0,5.0,0.0,0.0,0.0,0.0
+2010-02-14,Mir Ali,North Waziristan,5.0,7.0,0.0,0.0,0.0,0.0,4.0,4.0
+2010-02-15,Tappi,North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-02-17,Tabbi,North Waziristan,4.0,4.0,0.0,0.0,0.0,0.0,2.0,3.0
+2010-02-18,Danda Darpakhel,North Waziristan,3.0,5.0,0.0,0.0,0.0,0.0,4.0,4.0
+2010-02-24,Darga Mandi,North Waziristan,5.0,13.0,5.0,6.0,1.0,1.0,6.0,6.0
+2010-03-08,Miram Shah,North Waziristan,9.0,9.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-03-10,Mizar Madakhel,North Waziristan,7.0,8.0,0.0,0.0,0.0,0.0,12.0,12.0
+2010-03-10,Mizar Madakhel,North Waziristan,7.0,7.0,4.0,7.0,0.0,0.0,0.0,0.0
+2010-03-16,Datta Khel,North Waziristan,7.0,11.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-03-17,Hamzoni,North Waziristan,3.0,5.0,0.0,0.0,0.0,0.0,4.0,4.0
+2010-03-17,Mizar Madakhel,North Waziristan,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-03-21,Inzar,North Waziristan,5.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-03-23,Machis,North Waziristan,6.0,6.0,0.0,0.0,0.0,0.0,3.0,3.0
+2010-03-27,Hurmuz,North Waziristan,4.0,4.0,0.0,4.0,0.0,0.0,5.0,5.0
+2010-03-31,Tappi,North Waziristan,5.0,6.0,5.0,6.0,1.0,1.0,2.0,2.0
+2010-04-12,Boya,North Waziristan,13.0,13.0,8.0,13.0,2.0,2.0,2.0,3.0
+2010-04-14,Ambar Shaga,North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,1.0,3.0
+2010-04-16,Toorikhel,North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-04-24,Machi Khel,North Waziristan,7.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-04-26,Khushali,North Waziristan,3.0,8.0,0.0,0.0,0.0,0.0,3.0,3.0
+2010-05-03,Machi Khel,North Waziristan,4.0,6.0,0.0,2.0,0.0,0.0,0.0,0.0
+2010-05-09,Datta Khel,North Waziristan,5.0,10.0,0.0,4.0,0.0,0.0,4.0,4.0
+2010-05-11,Datta Khel,North Waziristan,8.0,14.0,0.0,4.0,0.0,0.0,12.0,12.0
+2010-05-11,Gurwak,North Waziristan,7.0,15.0,0.0,0.0,0.0,0.0,4.0,4.0
+2010-05-15,Khyber,Khyber Agency,5.0,15.0,0.0,2.0,0.0,0.0,15.0,15.0
+2010-05-21,Boya,North Waziristan,11.0,11.0,10.0,10.0,7.0,7.0,7.0,10.0
+2010-05-28,Mizai Nari,South Waziristan,8.0,12.0,0.0,11.0,0.0,0.0,4.0,4.0
+2010-06-10,Norak,North Waziristan,2.0,7.0,4.0,4.0,0.0,0.0,3.0,3.0
+2010-06-11,Maizer,North Waziristan,10.0,15.0,0.0,0.0,0.0,0.0,10.0,12.0
+2010-06-19,Haider Khel,North Waziristan,16.0,17.0,0.0,0.0,0.0,0.0,10.0,18.0
+2010-06-26,Khushali,North Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,1.0,3.0
+2010-06-27,Tabbi,North Waziristan,5.0,6.0,0.0,0.0,0.0,0.0,4.0,4.0
+2010-06-29,Kari Kot,South Waziristan,7.0,10.0,0.0,0.0,0.0,0.0,1.0,4.0
+2010-07-15,Sheerani,North Waziristan,9.0,14.0,0.0,7.0,0.0,0.0,3.0,3.0
+2010-07-24,Dwasarak,South Waziristan,16.0,18.0,0.0,0.0,0.0,0.0,24.0,24.0
+2010-07-25,Shaktoi,North Waziristan,14.0,32.0,0.0,0.0,0.0,0.0,7.0,12.0
+2010-07-25,Tabbi,North Waziristan,4.0,12.0,0.0,0.0,0.0,0.0,2.0,4.0
+2010-07-25,Sararogha,South Waziristan,4.0,4.0,0.0,0.0,0.0,0.0,5.0,5.0
+2010-08-14,Issori,North Waziristan,13.0,14.0,7.0,7.0,1.0,1.0,5.0,6.0
+2010-08-21,Qutab Khel,North Waziristan,4.0,6.0,0.0,4.0,0.0,0.0,2.0,2.0
+2010-08-23,Danda Darpakhel,North Waziristan,20.0,20.0,7.0,9.0,3.0,3.0,15.0,15.0
+2010-08-23,Darga Mandi,North Waziristan,5.0,7.0,0.0,0.0,0.0,0.0,3.0,12.0
+2010-08-27,Shahidano,Kurram Agency,3.0,9.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-08-27,Badshah Kot,Kurram Agency,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-08-27,Taaloo Ganj,Kurram Agency,2.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0
+2010-09-03,Miram Shah,North Waziristan,6.0,9.0,0.0,0.0,0.0,0.0,2.0,3.0
+2010-09-03,Datta Khel,North Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-09-04,Datta Khel,North Waziristan,7.0,8.0,0.0,0.0,0.0,0.0,12.0,12.0
+2010-09-06,Khar Qamar,North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,1.0,1.0
+2010-09-08,Danda Darpakhel,North Waziristan,5.0,10.0,4.0,4.0,4.0,4.0,2.0,2.0
+2010-09-08,Ambar Shaga,North Waziristan,3.0,4.0,0.0,4.0,0.0,0.0,1.0,2.0
+2010-09-08,Danda Darpakhel,North Waziristan,10.0,10.0,0.0,0.0,0.0,0.0,2.0,5.0
+2010-09-09,Miram Shah,North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,3.0,5.0
+2010-09-12,Newey Adda,North Waziristan,5.0,7.0,0.0,0.0,0.0,0.0,2.0,3.0
+2010-09-14,Bushnarai,North Waziristan,11.0,12.0,0.0,0.0,0.0,0.0,4.0,4.0
+2010-09-14,Qutab Khel,North Waziristan,1.0,4.0,0.0,0.0,0.0,0.0,4.0,4.0
+2010-09-15,Darga Mandi,North Waziristan,11.0,15.0,5.0,5.0,0.0,0.0,1.0,5.0
+2010-09-15,Pai Khel,North Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,3.0,3.0
+2010-09-19,Deegan,North Waziristan,3.0,9.0,5.0,5.0,0.0,0.0,0.0,0.0
+2010-09-20,Darazinda,North Waziristan,3.0,6.0,0.0,3.0,0.0,0.0,0.0,0.0
+2010-09-21,Khand Morsak,South Waziristan,7.0,8.0,0.0,0.0,0.0,0.0,4.0,5.0
+2010-09-21,Azam Warsak,South Waziristan,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-09-25,Datta Khel,North Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-09-26,Lawra Mandi,North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-09-26,Miram Shah,North Waziristan,3.0,5.0,0.0,0.0,0.0,0.0,1.0,2.0
+2010-09-26,Sheerani,North Waziristan,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-09-27,Khushali,North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-09-28,Zeba,South Waziristan,4.0,4.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-10-02,Asar Village,North Waziristan,8.0,10.0,0.0,0.0,0.0,0.0,2.0,4.0
+2010-10-02,Inzarkas,North Waziristan,7.0,14.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-10-04,Mir Ali,North Waziristan,5.0,9.0,0.0,3.0,0.0,0.0,2.0,2.0
+2010-10-06,Miram Shah,North Waziristan,5.0,11.0,0.0,0.0,0.0,0.0,4.0,4.0
+2010-10-06,Hurmuz,North Waziristan,3.0,5.0,0.0,0.0,0.0,0.0,3.0,3.0
+2010-10-07,Khaisoori,North Waziristan,4.0,4.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-10-08,Mohammad Khel,North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-10-08,Char Khel,North Waziristan,5.0,8.0,0.0,4.0,0.0,0.0,0.0,0.0
+2010-10-10,Shiva,North Waziristan,4.0,9.0,0.0,0.0,0.0,0.0,3.0,3.0
+2010-10-13,Datta Khel,North Waziristan,6.0,14.0,3.0,6.0,0.0,0.0,0.0,0.0
+2010-10-15,Aziz Khel,North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,3.0,3.0
+2010-10-15,Machi Khel,North Waziristan,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-10-18,Datta Khel,North Waziristan,6.0,7.0,1.0,1.0,1.0,1.0,1.0,6.0
+2010-10-27,Mir Ali,North Waziristan,2.0,5.0,0.0,0.0,0.0,0.0,1.0,1.0
+2010-10-27,Deegan,North Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,1.0,1.0
+2010-10-28,Ismail Khel,North Waziristan,4.0,8.0,0.0,4.0,0.0,0.0,0.0,0.0
+2010-11-01,Haider Khel,North Waziristan,5.0,6.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-11-03,Qutab Khel,North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-11-03,Khaso Khel,North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-11-03,Pai Khel,North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-11-07,Ghulam Khan,North Waziristan,8.0,9.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-11-07,Datta Khel,North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,1.0,4.0
+2010-11-11,Ghulam Khan,North Waziristan,5.0,8.0,0.0,0.0,0.0,0.0,5.0,6.0
+2010-11-13,Miram Shah,North Waziristan,4.0,4.0,0.0,4.0,0.0,0.0,1.0,1.0
+2010-11-16,Ghulam Khan,North Waziristan,20.0,20.0,0.0,9.0,0.0,0.0,0.0,0.0
+2010-11-19,Norak,North Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,1.0,1.0
+2010-11-21,Khaddi,North Waziristan,5.0,9.0,0.0,3.0,0.0,0.0,0.0,0.0
+2010-11-22,Khesoor,North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,2.0,3.0
+2010-11-26,Pir Kelev,North Waziristan,2.0,4.0,1.0,4.0,1.0,1.0,0.0,0.0
+2010-11-28,Hassan Khel,North Waziristan,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-12-06,Khushali,North Waziristan,3.0,5.0,0.0,2.0,0.0,0.0,3.0,3.0
+2010-12-06,Kushali,North Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-12-10,Khadar Khel,North Waziristan,4.0,4.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-12-14,Spalaga,North Waziristan,3.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0
+2010-12-16,Tirah Valley,Khyber Agency,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-12-17,Sandana,Khyber Agency,7.0,15.0,0.0,0.0,0.0,0.0,7.0,11.0
+2010-12-17,Nakai,Khyber Agency,11.0,15.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-12-17,Speen Drang,Khyber Agency,32.0,32.0,2.0,2.0,0.0,0.0,0.0,0.0
+2010-12-27,Shera Tala,North Waziristan,18.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-12-27,Machi Khel,North Waziristan,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010-12-28,Ghulam Khan,North Waziristan,5.0,7.0,0.0,0.0,0.0,0.0,2.0,2.0
+2010-12-28,Ghulam Khan,North Waziristan,5.0,12.0,2.0,4.0,0.0,0.0,3.0,3.0
+2010-12-28,Ghulam Khan,North Waziristan,9.0,10.0,0.0,0.0,0.0,0.0,6.0,6.0
+2010-12-31,Ghulam Khan,North Waziristan,4.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-01-01,Mandi Khel,North Waziristan,8.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-01-01,Mandi Khel,North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-01-01,Datta Khel,North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-01-01,Boya,North Waziristan,4.0,4.0,0.0,0.0,0.0,0.0,4.0,4.0
+2011-01-07,Ghar Laley,North Waziristan,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-01-12,Haider Khel,North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,2.0,15.0
+2011-01-18,"Assar Madd Khel, Datta Khel",North Waziristan,3.0,7.0,0.0,0.0,0.0,0.0,3.0,3.0
+2011-01-23,Doga Mada Khel,North Waziristan,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-01-23,Doga Mada Khel,North Waziristan,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-01-23,Razmak,North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,3.0,3.0
+2011-02-20,"Kazha Punga area, Tehsil Birmal",South Waziristan,6.0,8.0,0.0,0.0,0.0,0.0,2.0,2.0
+2011-02-21,Malik Jashdar,North Waziristan,7.0,14.0,0.0,11.0,0.0,0.0,10.0,10.0
+2011-02-24,Mohammad Khel,North Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,3.0,2.0
+2011-03-08,Landidog,South Waziristan,2.0,5.0,0.0,5.0,0.0,0.0,2.0,2.0
+2011-03-09,Datta Khel,North Waziristan,5.0,5.0,0.0,0.0,0.0,0.0,2.0,3.0
+2011-03-11,Khesoor,North Waziristan,4.0,12.0,5.0,5.0,0.0,0.0,0.0,0.0
+2011-03-11,Ghoroski,North Waziristan,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-03-13,Azam Warsak,South Waziristan,0.0,4.0,0.0,0.0,0.0,0.0,0.0,5.0
+2011-03-13,"Ishar Morr area, Qutab Khel, Miranshah",North Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,5.0,5.0
+2011-03-14,Malik Jashdar,North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-03-16,Datta Khel,North Waziristan,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-03-17,Datta Khel,North Waziristan,26.0,42.0,19.0,41.0,0.0,1.0,9.0,14.0
+2011-04-13,Angor Adda,South Waziristan,4.0,7.0,0.0,7.0,0.0,0.0,6.0,10.0
+2011-04-22,Spinwan,North Waziristan,20.0,26.0,5.0,9.0,3.0,5.0,5.0,10.0
+2011-05-06,Dwa Tooe,North Waziristan,7.0,18.0,6.0,6.0,0.0,0.0,4.0,4.0
+2011-05-10,Angor Adda,South Waziristan,3.0,5.0,0.0,0.0,0.0,0.0,4.0,4.0
+2011-05-12,Datta Khel,North Waziristan,5.0,8.0,0.0,0.0,0.0,0.0,1.0,1.0
+2011-05-13,Doga Mada Khel,North Waziristan,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-05-16,"Khushali Village, Mir Ail",North Waziristan,4.0,10.0,0.0,0.0,0.0,0.0,2.0,4.0
+2011-05-16,"Khisoor Village, Mir Ali",North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-05-20,Tappi,North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-05-23,Mir Ali,North Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,2.0,2.0
+2011-06-03,Ghwa Khwa,South Waziristan,5.0,12.0,0.0,0.0,0.0,0.0,1.0,3.0
+2011-06-06,"Tigger, Toji Khel Wazir",South Waziristan,7.0,9.0,0.0,0.0,0.0,0.0,2.0,2.0
+2011-06-06,Wacha Dana,South Waziristan,8.0,10.0,0.0,7.0,0.0,0.0,3.0,3.0
+2011-06-06,Darnashtra,South Waziristan,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-06-08,Zoynari,South Waziristan,18.0,23.0,0.0,0.0,0.0,0.0,6.0,6.0
+2011-06-08,Shawal,South Waziristan,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-06-15,Wana,South Waziristan,2.0,10.0,0.0,0.0,0.0,0.0,2.0,2.0
+2011-06-15,Karez,South Waziristan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-06-15,Mir Ali,North Waziristan,5.0,6.0,5.0,6.0,0.0,0.0,0.0,0.0
+2011-06-20,Khardand,Kurram Agency,5.0,7.0,2.0,7.0,0.0,0.0,0.0,3.0
+2011-06-20,Zarakai,Kurram Agency,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-06-27,Shawal,South Waziristan,6.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-06-27,Shakai,South Waziristan,12.0,21.0,0.0,20.0,0.0,0.0,2.0,2.0
+2011-07-05,Mir Ali,North Waziristan,4.0,6.0,0.0,3.0,0.0,2.0,5.0,5.0
+2011-07-11,Gurwak,North Waziristan,4.0,12.0,0.0,0.0,0.0,0.0,2.0,2.0
+2011-07-12,Gurwak,North Waziristan,12.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-07-12,Barmal,South Waziristan,5.0,13.0,0.0,0.0,0.0,0.0,3.0,5.0
+2011-07-12,Datta Khel,North Waziristan,13.0,15.0,0.0,4.0,0.0,0.0,0.0,0.0
+2011-07-12,Datta Khel,North Waziristan,1.0,9.0,1.0,1.0,0.0,0.0,3.0,5.0
+2011-07-20,Mir Ali,North Waziristan,4.0,4.0,0.0,0.0,0.0,0.0,2.0,2.0
+2011-08-01,Azam Warsak,South Waziristan,3.0,6.0,0.0,6.0,0.0,0.0,2.0,7.0
+2011-08-02,Qutab Khel,North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-08-10,Miram Shah,North Waziristan,8.0,25.0,0.0,0.0,0.0,0.0,3.0,8.0
+2011-08-16,Miram Shah,North Waziristan,2.0,7.0,3.0,4.0,1.0,1.0,2.0,2.0
+2011-08-19,Shin Warsak,South Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,2.0,2.0
+2011-08-22,"Mir Koon Khel, Mir Ali",North Waziristan,3.0,7.0,0.0,4.0,0.0,0.0,3.0,3.0
+2011-09-11,Hisokhel,North Waziristan,1.0,5.0,0.0,0.0,0.0,0.0,1.0,3.0
+2011-09-23,Khushali,North Waziristan,3.0,8.0,0.0,0.0,0.0,0.0,3.0,4.0
+2011-09-27,Azam Warsak,South Waziristan,0.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0
+2011-09-30,Baghar,South Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,1.0,5.0
+2011-10-13,Danda Darpakhel,North Waziristan,1.0,6.0,0.0,0.0,0.0,0.0,4.0,4.0
+2011-10-13,"Chashma Nala, Birmal",South Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,3.0,3.0
+2011-10-14,Danda Darpakhel,North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011-10-15,Angor Adda,South Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,3.0,7.0
+2011-10-26,"Shana Wana, Birmal",South Waziristan,13.0,22.0,0.0,0.0,0.0,0.0,6.0,6.0
+2011-10-27,Azam Warsak,South Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,3.0,4.0
+2011-10-27,Hisokhel,North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,3.0,3.0
+2011-10-30,"Khar Khama, Datta Khel",North Waziristan,4.0,6.0,4.0,4.0,0.0,0.0,2.0,3.0
+2011-10-31,Norak,North Waziristan,2.0,4.0,2.0,2.0,2.0,2.0,3.0,3.0
+2011-11-03,"Sarai Darpa Khel, Miranshah",North Waziristan,2.0,3.0,0.0,0.0,0.0,0.0,3.0,3.0
+2011-11-15,Miram Shah,North Waziristan,3.0,7.0,0.0,0.0,0.0,0.0,2.0,4.0
+2011-11-16,Babar Ghar,South Waziristan,4.0,22.0,0.0,0.0,0.0,0.0,6.0,12.0
+2011-11-17,Shawal,North Waziristan,7.0,9.0,0.0,0.0,0.0,0.0,3.0,5.0
+2012-01-10,Miram Shah,North Waziristan,1.0,4.0,0.0,0.0,0.0,0.0,2.0,2.0
+2012-01-12,Datta Khel,North Waziristan,5.0,9.0,0.0,0.0,0.0,0.0,2.0,3.0
+2012-01-23,Deegan,North Waziristan,2.0,5.0,0.0,0.0,0.0,0.0,1.0,3.0
+2012-01-23,"Char Khel, Datta Khel",North Waziristan,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+2012-02-08,Miranshah,North Waziristan,9.0,10.0,0.0,0.0,0.0,0.0,2.0,12.0
+2012-02-09,Miranshah,North Waziristan,3.0,8.0,0.0,3.0,0.0,1.0,3.0,3.0
+2012-02-16,Miranshah,North Waziristan,5.0,6.0,0.0,0.0,0.0,0.0,4.0,7.0
+2012-02-16,"Jalar Zakar Khel, Mir Ali",North Waziristan,8.0,15.0,0.0,0.0,0.0,0.0,3.0,3.0
+2012-03-09,Shaktoi Mandao,South Waziristan,4.0,15.0,0.0,0.0,0.0,0.0,0.0,3.0
+2012-03-09,Nishpa,South Waziristan,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+2012-03-13,"Wagdalai, Tehsil Birmal",South Waziristan,6.0,8.0,0.0,0.0,0.0,0.0,2.0,4.0
+2012-03-13,Shawa,North/South Waziristan,6.0,7.0,0.0,0.0,0.0,0.0,3.0,3.0
+2012-03-30,"Sarai Bazaar, Miranshah",North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,3.0,3.0
+2012-04-29,Miranshah Bazaar,North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,1.0,3.0
+2012-05-05,"Guldar Kot, Dre Nishtar area",North Waziristan,8.0,10.0,0.0,0.0,0.0,0.0,1.0,3.0
+2012-05-23,Datta Khel Kalai,North Waziristan,1.0,5.0,0.0,0.0,0.0,0.0,1.0,2.0
+2012-05-24,Khassokhel near Mir Ali,North Waziristan,5.0,12.0,0.0,8.0,0.0,0.0,3.0,4.0
+2012-05-26,Miranshah,North Waziristan,1.0,4.0,0.0,0.0,0.0,0.0,1.0,2.0
+2012-05-28,Khassokhel near Mir Ali,North Waziristan,4.0,10.0,0.0,0.0,0.0,0.0,4.0,4.0
+2012-05-28,"Degan, Datta Khel",North Waziristan,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2012-06-02,"Khawashi Khel, near Wana",South Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2012-06-03,"Landai Warai, Tehsil Birmal",South Waziristan,0.0,10.0,0.0,0.0,0.0,0.0,4.0,10.0
+2012-06-04,"Khushali, Tehsil Mir Ali",North Waziristan,14.0,18.0,0.0,6.0,0.0,0.0,3.0,6.0
+2012-06-13,"Isha, near Miranshah",North Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2012-06-14,Miranshah,North Waziristan,1.0,4.0,0.0,0.0,0.0,0.0,2.0,3.0
+2012-06-26,Shawal,North Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,2.0,7.0
+2012-07-01,Dre Nishter/Shawal,North Waziristan,6.0,9.0,0.0,0.0,0.0,0.0,2.0,3.0
+2012-07-06,Maizer,North Waziristan,13.0,24.0,3.0,18.0,0.0,0.0,2.0,22.0
+2012-07-23,Dre Nishter/Shawal,North Waziristan,11.0,14.0,6.0,14.0,0.0,0.0,2.0,11.0
+2012-07-29,Kushhali Turkhel,North Waziristan,4.0,7.0,0.0,3.0,0.0,0.0,4.0,4.0
+2012-08-18,"Mammon Narai, Shuweda",North Waziristan,5.0,12.0,1.0,1.0,0.0,0.0,2.0,9.0
+2012-08-19,"Mana, Shawal",North Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,2.0,3.0
+2012-08-19,"Mana, Shawal",North Waziristan,2.0,3.0,0.0,0.0,0.0,0.0,2.0,2.0
+2012-08-21,"Shnakhura, Datta Khel",North Waziristan,4.0,25.0,1.0,3.0,1.0,1.0,2.0,2.0
+2012-08-24,"Makai/Maki Ghar, Shawal",North Waziristan,13.0,22.0,0.0,0.0,0.0,0.0,4.0,14.0
+2012-08-24,"Dara, Shawal",North Waziristan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2012-08-24,"Dre Nishter, Shawal",North Waziristan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2012-09-01,Degan,North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,2.0,3.0
+2012-09-21,Mohammed Khel/Datta Khel,North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,2.0,3.0
+2012-09-24,"Mosaki - Inzar Abad, Tehsil Mir Ali",North Waziristan,3.0,8.0,0.0,0.0,0.0,0.0,2.0,2.0
+2012-10-01,Khadar Khel,North Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2012-10-10,"Hurmaz, Teshil Mir Ali",North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,3.0,3.0
+2012-10-11,Buland Khel,Orakzai Agency,16.0,26.0,0.0,2.0,0.0,0.0,5.0,15.0
+2012-10-24,Village Ghundi Killi Daur Tappi area of Tehsil Miranshah,North Waziristan,1.0,1.0,1.0,1.0,0.0,0.0,6.0,9.0
+2012-11-29,Shin Warsak,South Waziristan,1.0,4.0,0.0,0.0,0.0,0.0,3.0,4.0
+2012-12-01,Shin Warsak,South Waziristan,1.0,4.0,0.0,0.0,0.0,0.0,3.0,3.0
+2012-12-06,"Noorak Mubarak Shahi area, Tehsil Mir Ali",North Waziristan,2.0,11.0,1.0,1.0,0.0,0.0,1.0,6.0
+2012-12-09,"Tabbi Tor Khel, Tehisl Ghulam Khan",North Waziristan,2.0,4.0,0.0,3.0,0.0,0.0,0.0,0.0
+2012-12-21,"Hassokhel, near Mir Ali",North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,2.0,2.0
+2012-12-29,"Gurbaz, Shawal",North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,2.0,2.0
+2013-01-02,"Lajhmarai area, Tehsil Birmal",South Waziristan,6.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0
+2013-01-03,"Ghundi Killi, Tappi area, Tehsil Miranshah",North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,1.0,1.0
+2013-01-06,"Smal Narai area, Tehsil Ladha",South Waziristan,8.0,18.0,0.0,0.0,0.0,0.0,3.0,7.0
+2013-01-08,"Haiderkhel, near Mir Ali",North Waziristan,4.0,9.0,0.0,2.0,0.0,1.0,1.0,4.0
+2013-01-08,"Malangan Hassokhel, Tehsil Mir Ali",North Waziristan,0.0,9.0,0.0,0.0,0.0,0.0,1.0,4.0
+2013-01-10,"Hassokhel, near Mir Ali",North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+2013-02-06,Spinwam,North Waziristan,3.0,5.0,0.0,2.0,0.0,0.0,1.0,1.0
+2013-02-08,Babar Ghar,South Waziristan,6.0,9.0,0.0,0.0,0.0,0.0,2.0,6.0
+2013-03-10,Datta Khel,North Waziristan,1.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0
+2013-03-22,"New Adda, Tehsil Datta Khel",North Waziristan,1.0,4.0,0.0,0.0,0.0,0.0,1.0,1.0
+2013-04-14,Datta Khel,North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,2.0,2.0
+2013-04-17,"Pobar, Tehsil Ladha",South Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,2.0,7.0
+2013-05-29,"Qazi Kot, Tehsil Miranshah",North Waziristan,3.0,7.0,0.0,0.0,0.0,0.0,1.0,4.0
+2013-06-07,"Shui Khel Mandi, Tehsil Shawal",North Waziristan,7.0,11.0,0.0,0.0,0.0,0.0,3.0,4.0
+2013-07-03,"Shui Khel Mandi, Tehsil Shawal",North Waziristan,16.0,18.0,0.0,0.0,0.0,0.0,5.0,5.0
+2013-07-13,Khray Chila Mossaki area of Mir Ali,North Waziristan,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+2013-07-28,"Zoi Nair, Tehsil Shawal",North Waziristan,5.0,8.0,0.0,0.0,0.0,0.0,2.0,4.0
+2013-08-31,"Mossaki, Tehsil Mir Ali",North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,1.0,3.0
+2013-09-06,"Tabi, Tehsil Ghulam Khan",North Waziristan,5.0,7.0,0.0,0.0,0.0,0.0,3.0,7.0
+2013-09-22,"ShawalPalgai area, Thesil Makin",North/South Waziristan,6.0,7.0,0.0,0.0,0.0,0.0,2.0,4.0
+2013-09-29,Darga Mandi,North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,1.0,3.0
+2013-09-30,"Land Char Khel, Tehsil Datta Khel",North Waziristan,1.0,4.0,0.0,0.0,0.0,0.0,2.0,4.0
+2013-10-31,Miranshah,North Waziristan,0.0,5.0,0.0,0.0,0.0,0.0,3.0,3.0
+2013-11-01,Dandi Darpakhel,North Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,2.0,2.0
+2013-11-21,"Tal, Hangu District",Khyber Pakhtunkhwa province,6.0,9.0,0.0,0.0,0.0,0.0,1.0,9.0
+2013-11-29,Miranshah,North Waziristan,2.0,3.0,0.0,0.0,0.0,0.0,1.0,2.0
+2013-12-25,"Qutab Khel, Miranshah",North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,1.0,1.0
+2014-06-11,Tabi Tolkhel or Darga Mandi,North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+2014-06-12,"Darga Mandi, Dande Darpakhel or Ghulam Khan",North Waziristan,6.0,10.0,0.0,0.0,0.0,0.0,4.0,4.0
+2014-06-18,"Darga Mandi, Dande Darpakhel or Miranshah",North Waziristan,4.0,8.0,0.0,0.0,0.0,0.0,2.0,4.0
+2014-07-10,"Madakhel village, Datta Khel Tehsil",North Waziristan,6.0,7.0,0.0,0.0,0.0,0.0,2.0,3.0
+2014-07-16,"Saidgai, Datta Khel tehsil",North Waziristan,15.0,24.0,0.0,0.0,0.0,0.0,4.0,6.0
+2014-07-19,"Doga Madakhel, Datta Khel tehsil",North Waziristan,11.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0
+2014-08-05,"Lawara Mandi village, Datta Khel tehsil",North Waziristan,5.0,7.0,0.0,0.0,0.0,0.0,2.0,3.0
+2014-09-24,"Alwara Mandi village, Datta Khel tehsil",North Waziristan,5.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0
+2014-09-28,Wana,South Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,1.0,4.0
+2014-10-05,"Kundhgar, Shawal",South Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,2.0,3.0
+2014-10-06,"Mangrotai, Shawal",South Waziristan,4.0,8.0,0.0,0.0,0.0,0.0,4.0,6.0
+2014-10-07,"Kundhgar, Shawal",South Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,5.0,11.0
+2014-10-07,"Kundser, Datta Khel",North Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,5.0,5.0
+2014-10-08,"Loman, Datta Khel",North Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,1.0,3.0
+2014-10-09,Datta Khel,North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2014-10-11,Tirah Valley,Khyber Agency,4.0,6.0,0.0,0.0,0.0,0.0,2.0,2.0
+2014-10-11,"Marga, Shawal",North Waziristan,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2014-10-30,"Nargas village, Azam Warsak",South Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,2.0,2.0
+2014-11-11,"Dawa Toi, Datta Khel",North Waziristan,4.0,7.0,0.0,2.0,0.0,2.0,2.0,3.0
+2014-11-20,Datta Khel,North Waziristan,5.0,8.0,0.0,0.0,0.0,0.0,2.0,3.0
+2014-11-26,"Garga, Shawal",North Waziristan,4.0,9.0,0.0,0.0,0.0,0.0,2.0,3.0
+2014-12-07,"Khar Tangi, Datta Khel",North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,2.0,2.0
+2014-12-20,Datta Khel,North Waziristan,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+2014-12-26,"Kund/Kundghar village, Shawal",North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2014-12-26,"Kund/Kundghar village, Shawal",North Waziristan,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015-01-04,"Alwara Mandi, Datta Khel or Shawal",North Waziristan,6.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015-01-15,Shawal,North Waziristan,5.0,7.0,2.0,2.0,0.0,0.0,0.0,0.0
+2015-01-15,Ladha district,South Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,3.0,4.0
+2015-01-19,"Shahi Khel, Shawal",North Waziristan,5.0,7.0,0.0,0.0,0.0,0.0,4.0,6.0
+2015-01-28,Shawal,North Waziristan,6.0,7.0,0.0,0.0,0.0,0.0,2.0,4.0
+2015-03-18,Shabak,Kurram Agency,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015-04-12,Shawal,North Waziristan,4.0,4.0,0.0,0.0,0.0,0.0,2.0,2.0
+2015-05-16,"Wara Mandi, Shawal",North Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,2.0,2.0
+2015-05-18,"Zoy Nari, Shawal",North Waziristan,3.0,6.0,0.0,0.0,0.0,0.0,2.0,3.0
+2015-06-01,Shawal,North Waziristan,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015-06-06,Shawal or Datta Khel,North Waziristan,7.0,9.0,0.0,3.0,0.0,0.0,4.0,4.0
+2015-08-06,"Alwara Mandi area, Datta Khel",North Waziristan,4.0,7.0,0.0,0.0,0.0,0.0,2.0,3.0
+2015-09-01,"Karwanda village, Manzarkhel area, Dattakhel sub-division or Lawara Banga area of Shawal valley",North Waziristan,5.0,6.0,0.0,0.0,0.0,0.0,4.0,4.0
+2016-01-09,"Mangrooti village, Shawal valley, Datta Khel tehsil",North Waziristan,5.0,5.0,0.0,0.0,0.0,0.0,2.0,2.0
+2016-02-22,"Shahidano Dhand, Lower Kurram",Kurram Agency,4.0,5.0,0.0,0.0,0.0,0.0,1.0,4.0
+2016-05-21,Ahmad Wal,Balochistan,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0
+2017-03-02,Unknown,Kurram Agency,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017-04-26,Zuwai,North Waziristan,7.0,11.0,0.0,3.0,0.0,0.0,0.0,0.0
+2017-05-24,Unknown,North Waziristan,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017-06-13,Hangu district,Khyber Pakhtunkhwa province,1.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0
+2017-09-15,Ghuz Ghari village,Kurram Agency,3.0,3.0,0.0,0.0,0.0,0.0,1.0,2.0
+2018-01-24,Unclear ,Unclear ,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
